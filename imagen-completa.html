@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Grupo Queulat | Vista imagen completa</title>
+  <style>
+    * { box-sizing: border-box; }
+    html, body {
+      margin: 0;
+      min-height: 100%;
+      background: #06121c;
+    }
+    .full-image {
+      display: block;
+      width: 100%;
+      height: auto;
+    }
+  </style>
+</head>
+<body>
+  <picture>
+    <source media="(max-width: 720px)" srcset="img/__LANDING_MOBILE.jpg">
+    <img class="full-image" src="img/__LANDING_DESKTOP.jpg" alt="Grupo Queulat">
+  </picture>
+</body>
+</html>
