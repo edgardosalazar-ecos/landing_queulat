@@ -204,11 +204,22 @@ body {
   transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1);
 }
 
+.company__logo-slot {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 72px;
+}
+
 .company__logo {
   height: 58px;
   width: auto;
   max-width: 100%;
   object-fit: contain;
+}
+
+.company__logo--ems {
+  height: 72px;
 }
 
 .company__desc {
@@ -340,6 +351,14 @@ body {
 
   .company__logo {
     height: 44px;
+  }
+
+  .company__logo--ems {
+    height: 54px;
+  }
+
+  .company__logo-slot {
+    height: 54px;
   }
 
   .company__desc {
