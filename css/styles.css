@@ -204,16 +204,6 @@ body {
   transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1);
 }
 
-.company + .company::before {
-  content: "";
-  position: absolute;
-  left: -6px;
-  top: 33px;
-  height: 42px;
-  width: 1px;
-  background: var(--border);
-}
-
 .company__logo {
   height: 58px;
   width: auto;
@@ -346,10 +336,6 @@ body {
 
   .company {
     padding: 0;
-  }
-
-  .company + .company::before {
-    content: none;
   }
 
   .company__logo {
