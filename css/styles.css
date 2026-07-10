@@ -42,6 +42,8 @@ body {
 @media (max-width: 720px) {
   body {
     background-image: linear-gradient(rgba(2, 6, 12, 0.55), rgba(2, 6, 12, 0.55)), url("../img/FONDO__LANDING_MOBILE.jpg");
+    background-size: cover, cover;
+    background-attachment: scroll, scroll;
   }
 }
 
@@ -282,16 +284,16 @@ body {
   }
 
   .brand__logo {
-    height: 58px;
+    height: 44px;
   }
 
   .brand__group {
-    font-size: 16px;
+    font-size: 13px;
     letter-spacing: 0.4em;
   }
 
   .intro__lead {
-    font-size: 18px;
+    font-size: 15px;
   }
 
   .intro__text {
@@ -326,7 +328,7 @@ body {
   }
 
   .company__logo {
-    height: 72px;
+    height: 58px;
   }
 
   .company__desc {
@@ -344,5 +346,11 @@ body {
 
   .contact__item {
     text-align: center;
+    font-size: 12px;
+  }
+
+  .contact__icon {
+    width: 15px;
+    height: 15px;
   }
 }
