@@ -31,19 +31,17 @@ body {
   font-family: 'Boston', 'Century Gothic', 'Jost', 'Segoe UI', Arial, Helvetica, sans-serif;
   color: var(--ink);
   background-color: var(--bg-end);
-  background-image: linear-gradient(rgba(2, 6, 12, 0.55), rgba(2, 6, 12, 0.55)), url("../img/backgrounds/BACKGROUND_LANDING_DESKTOP.jpg");
-  background-repeat: no-repeat, no-repeat;
-  background-position: center, center;
-  background-size: cover, cover;
-  background-attachment: fixed, fixed;
+  background-image: url("../img/backgrounds/BACKGROUND_2K.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
   min-height: 100vh;
 }
 
 @media (max-width: 720px) {
   body {
-    background-image: linear-gradient(rgba(2, 6, 12, 0.55), rgba(2, 6, 12, 0.55)), url("../img/backgrounds/BACKGROUND_LANDING_MOBILE.jpg");
-    background-size: cover, cover;
-    background-attachment: scroll, scroll;
+    background-attachment: scroll;
   }
 }
 
