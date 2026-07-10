@@ -94,9 +94,9 @@ body {
 }
 
 .brand__logo {
-  height: 78px;
+  height: 46px;
   width: auto;
-  margin-top: -12px;
+  margin-top: 4px;
 }
 
 /* Intro */
@@ -284,7 +284,7 @@ body {
   }
 
   .brand__logo {
-    height: 44px;
+    height: 30px;
   }
 
   .brand__group {

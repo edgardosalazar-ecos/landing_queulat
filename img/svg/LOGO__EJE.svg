@@ -32,7 +32,7 @@
       }
 
       .st7 {
-        fill: #3d3c3c;
+        fill: #ffffff;
       }
     </style>
     <linearGradient id="Degradado_sin_nombre" data-name="Degradado sin nombre" x1="109.34" y1="-3.09" x2="109.34" y2="101.22" gradientTransform="translate(0 162.58) scale(1 -1)" gradientUnits="userSpaceOnUse">
