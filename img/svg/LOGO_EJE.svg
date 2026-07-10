@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 467.28 160.2">
+  <!-- Generator: Adobe Illustrator 30.6.0, SVG Export Plug-In . SVG Version: 2.1.4 Build 109)  -->
+  <defs>
+    <style>
+      .st0 {
+        opacity: .66;
+      }
+
+      .st0, .st1 {
+        mix-blend-mode: multiply;
+      }
+
+      .st2 {
+        isolation: isolate;
+      }
+
+      .st3 {
+        fill: url(#Degradado_sin_nombre);
+      }
+
+      .st4 {
+        fill: url(#Degradado_sin_nombre_3);
+      }
+
+      .st5 {
+        fill: url(#Degradado_sin_nombre_2);
+      }
+
+      .st6 {
+        fill: #00cfab;
+      }
+
+      .st7 {
+        fill: #ffffff;
+      }
+    </style>
+    <linearGradient id="Degradado_sin_nombre" data-name="Degradado sin nombre" x1="109.34" y1="-3.09" x2="109.34" y2="101.22" gradientTransform="translate(0 162.58) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset=".28" stop-color="#00b0aa"/>
+      <stop offset=".52" stop-color="#00b7aa"/>
+      <stop offset=".9" stop-color="#00cdaa"/>
+      <stop offset=".92" stop-color="#00cfab"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_2" data-name="Degradado sin nombre 2" x1="98.88" y1="65.21" x2="98.88" y2="121.37" gradientTransform="translate(0 162.58) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#1c1c1b"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_3" data-name="Degradado sin nombre 3" x1="98.87" y1="6235.17" x2="98.87" y2="6291.34" gradientTransform="translate(0 -6179.3076)" gradientUnits="userSpaceOnUse">
+      <stop offset=".12" stop-color="#fff"/>
+      <stop offset=".21" stop-color="#f0f0f0"/>
+      <stop offset=".38" stop-color="#cbcbcb"/>
+      <stop offset=".61" stop-color="#8f8f8f"/>
+      <stop offset=".89" stop-color="#3d3d3d"/>
+      <stop offset="1" stop-color="#1c1c1b"/>
+    </linearGradient>
+  </defs>
+  <g class="st2">
+    <g id="Capa_11" data-name="Capa_1">
+      <g>
+        <g>
+          <path class="st3" d="M138.71,160.18c-41.7,0-76.04-32.08-79.65-72.85H7.11c-3.93,0-7.11-3.19-7.11-7.11s3.18-7.11,7.11-7.11h51.94C62.66,32.34,97.01.26,138.7.26c44.09,0,79.97,35.87,79.97,79.97,0,3.93-3.18,7.11-7.11,7.11H73.35c3.56,32.91,31.51,58.62,65.36,58.63,15.95,0,31.34-5.78,43.32-16.29,2.95-2.59,7.45-2.29,10.04.66s2.3,7.45-.66,10.04c-14.58,12.78-33.29,19.82-52.7,19.82v-.02ZM73.35,73.1h130.71c-3.56-32.91-31.51-58.62-65.36-58.62s-61.8,25.71-65.36,58.62h0Z"/>
+          <circle class="st6" cx="206.18" cy="116.24" r="8.59"/>
+        </g>
+        <g class="st1">
+          <path class="st5" d="M73.35,87.33c3.56,32.92,31.51,58.63,65.36,58.63v14.23c-41.7,0-76.04-32.08-79.65-72.85h14.3-.01Z"/>
+        </g>
+        <g class="st0">
+          <path class="st4" d="M59.05,72.85C62.66,32.08,97.01,0,138.7,0v14.23c-33.85,0-61.8,25.71-65.36,58.63h-14.3.01Z"/>
+        </g>
+        <g>
+          <path class="st7" d="M327.02,87.33c-3.13,0-6.01-.59-8.63-1.75-2.62-1.17-4.78-2.86-6.45-5.06l5.95-7.08c1.24,1.68,2.57,2.93,4,3.77s2.97,1.26,4.6,1.26c4.37,0,6.55-2.54,6.55-7.61v-22.02h-19.37v-8.6h30.09v30.03c0,5.73-1.42,10.01-4.27,12.83-2.84,2.82-7,4.23-12.47,4.23Z"/>
+          <path class="st7" d="M382.08,78.57h25.81v8.76h-36.66v-47.17h36.66v8.76h-25.81s0,29.65,0,29.65ZM381.27,59.09h21.56v8.56h-21.56v-8.56Z"/>
+          <path class="st7" d="M259.25,78.56h25.81v8.76h-36.66v-47.17h36.66v8.76h-25.81s0,29.65,0,29.65ZM258.44,59.09h21.56v8.56h-21.56v-8.56Z"/>
+        </g>
+        <g>
+          <path class="st7" d="M258.25,97.37l-10.61,23.2h3.98l2.6-5.81h11.22l2.6,5.81h4.01l-10.61-23.2h-3.19ZM263.96,111.45h-8.27l4.13-9.24,4.13,9.24h0Z"/>
+          <polygon class="st7" points="289.61 112.79 280.78 97.72 280.57 97.37 277.55 97.37 277.55 120.57 281.19 120.57 281.19 105.17 288.62 117.8 290.53 117.8 297.95 105.09 297.95 120.57 301.59 120.57 301.59 97.37 298.57 97.37 289.61 112.79"/>
+          <path class="st7" d="M327.19,108.45c.52-.38.96-.85,1.32-1.38.63-.93.95-2.07.95-3.39,0-2.01-.77-3.6-2.3-4.72-1.46-1.06-3.5-1.6-6.07-1.6h-10.11v23.2h10.73c2.88,0,5.09-.56,6.57-1.67,1.54-1.15,2.32-2.79,2.32-4.86,0-1.38-.32-2.57-.96-3.52-.6-.9-1.42-1.59-2.46-2.07h0ZM324.59,106.3c-.84.58-2.07.87-3.65.87h-6.22v-6.47h6.22c1.59,0,2.82.29,3.66.86.77.52,1.13,1.28,1.13,2.38s-.36,1.83-1.14,2.36ZM326.87,113.85c0,1.2-.38,2-1.2,2.52-.89.57-2.24.86-4,.86h-6.96v-6.75h6.96c1.76,0,3.1.29,4,.86.82.52,1.2,1.32,1.2,2.49v.02Z"/>
+          <rect class="st7" x="338.16" y="97.37" width="3.73" height="23.2"/>
+          <polygon class="st7" points="355.02 110.49 366.28 110.5 366.28 107.1 355.02 107.1 355.02 100.79 367.64 100.79 367.64 97.37 351.28 97.37 351.28 120.57 368.11 120.57 368.11 117.15 355.02 117.15 355.02 110.49"/>
+          <polygon class="st7" points="391.74 113.69 378.91 97.53 378.78 97.37 375.82 97.37 375.82 120.57 379.55 120.57 379.55 104.26 392.49 120.57 395.45 120.57 395.45 97.37 391.74 97.37 391.74 113.69"/>
+          <polygon class="st7" points="401.41 100.79 409.06 100.79 409.06 120.57 412.8 120.57 412.8 100.79 420.45 100.79 420.45 97.37 401.41 97.37 401.41 100.79"/>
+          <path class="st7" d="M432.05,97.37l-10.61,23.2h3.97l2.6-5.81h11.22l2.6,5.81h4.01l-10.61-23.2h-3.19,0ZM437.77,111.46h-8.27l4.13-9.24,4.13,9.24h0Z"/>
+          <polygon class="st7" points="455.09 117.15 455.09 97.37 451.36 97.37 451.36 120.57 467.28 120.57 467.28 117.15 455.09 117.15"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
