@@ -31,7 +31,7 @@ body {
   font-family: 'Boston', 'Century Gothic', 'Jost', 'Segoe UI', Arial, Helvetica, sans-serif;
   color: var(--ink);
   background-color: var(--bg-end);
-  background-image: url("../img/backgrounds/BACKGROUND_2K.jpg");
+  background-image: url("../img/backgrounds/BACKGROUND_2K_OPTIMIZADO.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
